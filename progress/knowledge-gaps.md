@@ -20,6 +20,12 @@ Each entry should include:
 - **Status**: Needs More Work
 - **Notes**: Topics introduced when tired - needs dedicated review session. Concepts include: Section 179 expensing, MACRS depreciation, mid-quarter convention, start-up cost rules, Section 1245 recapture. Student felt overwhelmed by multiple complex concepts at once.
 
+### Medicare Cost Calculations
+- **Date Identified**: 2025-10-15
+- **Severity**: Medium
+- **Status**: Needs More Work
+- **Notes**: Understands concepts (benefit periods, coinsurance rates) but needs practice calculating total costs. Example: Knew $408/day rate for days 61-90 but didn't calculate 15-day total. Needs more practice problems with multi-step calculations.
+
 ---
 
 ## Recently Resolved (Session 2025-10-11)

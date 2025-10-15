@@ -17,7 +17,78 @@ Each entry includes:
 *Topics will be added as you master them*
 
 ### Insurance Planning and Risk Management
-*Topics will be added as you master them*
+
+#### Homeowners Insurance Special Limits (2025-10-13) - Medium-High
+- HO policy types (HO-2 named perils, HO-3 open perils, HO-4 renters, HO-6 condo)
+- Coverage A/B/C/D structure (dwelling, other structures, personal property, loss of use)
+- **Special limits**: Jewelry/furs $1,500, coins $200, firearms/silver/business $2,500
+- Property away from home: 10% of Coverage C
+- 80% coinsurance rule understanding
+
+#### Auto Insurance PAP Structure (2025-10-15) - High
+- Part A (Liability): Split limits calculation (per person/per accident/property damage)
+- Part B (Medical Payments): No deductible, coordinates with health insurance
+- Part C (UM/UIM): Protection against uninsured/underinsured drivers
+- Part D (Physical Damage): Collision vs comprehensive with deductibles
+- Covered persons: Named insured, family, permissive users
+- Rental car coverage: Liability follows insured
+
+#### Social Security Filing Timeline (2025-10-13) - High
+- Early (62-67): 5-7% reduction per year
+- FRA (67): 100% benefit
+- Delayed (67-70): 8% increase per year, no further increase after 70
+- Break-even analysis around age 78-80
+
+#### Social Security Earnings Test (2025-10-13) - High
+- Applies only before FRA
+- 2024 threshold: $22,320 (lose $1 for every $2 over)
+- After FRA: Can earn unlimited with no penalty
+- Understanding threshold application
+
+#### Social Security Spousal Benefits (2025-10-13) - High
+- Up to 50% of worker's FRA benefit
+- Requirements: Spouse age 62+ AND worker must have filed
+- Timeline implications: Earlier filing = earlier spousal benefits
+
+#### Social Security Taxation (2025-10-13) - Medium-High
+- Combined income = AGI + tax-exempt interest + 50% of SS
+- Thresholds (married): <$32k = 0%, $32k-$44k = up to 50%, >$44k = up to 85%
+- Same regardless of filing age
+
+#### Retirement Plan Types (2025-10-13) - High
+- 403(b): Non-profit/education employees
+- 457(b): Government employees, same limits as 401k/403b, can stack with them
+- 457(f): Executive golden handcuffs, unlimited deferral, substantial forfeiture risk
+- 2024 limits: $23k base + $7.5k catch-up = $30.5k
+- All employer plans limited by compensation
+
+#### Keogh Plans (HR-10) (2025-10-13) - High
+- For self-employed individuals
+- Calculation: 20% of adjusted net self-employment income (after ½ SE tax deduction)
+- Separate from IRA limits - can contribute to both
+- Overall limit: $66k (2024), $69k (2025)
+
+#### Medicare Parts A/B/C/D Structure (2025-10-15) - Medium-High
+- Part A (Hospital): Free if 40+ quarters worked, covers hospital/SNF/hospice/home health
+- Part B (Medical): Doctor visits, preventive care, labs, outpatient; $174.70/month + IRMAA
+- Part C (Medicare Advantage): Private insurance replacing A+B, network restrictions
+- Part D (Prescription Drugs): Standalone drug coverage, varies by plan
+- Corrected common confusion: C = Advantage, D = Drugs (not reversed)
+
+#### Medicare Enrollment and Penalties (2025-10-15) - Medium-High
+- Initial Enrollment Period: 7-month window around 65th birthday
+- Part B penalty: 10% per 12-month period delayed (lifetime penalty)
+- Part D penalty: 1% per month delayed (lifetime penalty)
+- Exception: Creditable employer coverage (20+ employees) allows delay without penalty
+- Part A is free and can be enrolled separately from Part B
+
+#### Medicare Cost-Sharing (2025-10-15) - Medium
+- Hospital days 1-60: Deductible only ($1,632/2024)
+- Hospital days 61-90: $408/day coinsurance
+- Hospital days 91-150: Lifetime reserve ($816/day, 60 days total for life)
+- SNF days 1-20: Free (after 3-day hospital stay)
+- SNF days 21-100: $204/day coinsurance
+- IRMAA: Income-based premium adjustment for high earners
 
 ### Investment Planning
 
@@ -115,10 +186,10 @@ Each entry includes:
 ---
 
 ## Summary Statistics
-- **Total Topics Mastered**: 18 topics
-- **Last Updated**: 2025-10-11
-- **Session Count**: 1
-- **Next Focus**: Business taxation (Section 179, MACRS, depreciation)
+- **Total Topics Mastered**: 29 topics
+- **Last Updated**: 2025-10-15
+- **Session Count**: 3
+- **Next Focus**: Business taxation (Section 179, MACRS, depreciation) OR continue Medicare deep dive
 
 ---
 
