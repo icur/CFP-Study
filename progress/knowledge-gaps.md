@@ -22,9 +22,15 @@ Each entry should include:
 
 ### Medicare Cost Calculations
 - **Date Identified**: 2025-10-15
-- **Severity**: Medium
-- **Status**: Needs More Work
-- **Notes**: Understands concepts (benefit periods, coinsurance rates) but needs practice calculating total costs. Example: Knew $408/day rate for days 61-90 but didn't calculate 15-day total. Needs more practice problems with multi-step calculations.
+- **Severity**: Medium → Low
+- **Status**: In Progress (Improving!)
+- **Notes**: Initially struggled with calculating totals. After practice (2025-10-16), successfully calculated 25 days × $408 = $10,200 correctly. Still needs to memorize benefit period day ranges (1-60, 61-90, 91-150) but calculation skills are solid.
+
+### Social Security Early Filing Reduction Percentage
+- **Date Identified**: 2025-10-16
+- **Severity**: Low
+- **Status**: Needs Minor Refinement
+- **Notes**: Understands early filing reduces benefits but thinks reduction is ~5% per year. Actual reduction is ~6-7% per year (approximately 20% for 3 years early, not 15%). Concept is solid, just needs exact percentage.
 
 ---
 
@@ -83,6 +89,7 @@ Each entry should include:
 ---
 
 ## Exam Preparation Notes
-- **Days until exam**: ~25 days (Nov 6, 2025)
+- **Days until exam**: 21 days (Nov 6, 2025) - as of Oct 16
 - **Priority**: Focus on high-severity gaps first, especially business taxation
 - **Strategy**: Schedule dedicated review session for business taxation when fresh
+- **Recent Progress**: Medicare calculations showing significant improvement; Social Security concepts solid with minor percentage refinement needed
