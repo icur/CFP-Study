@@ -6,30 +6,27 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is the CFP-Study repository - a learning environment for CFP (Certified Financial Planner) exam preparation using guided learning methodology.
 
-**Exam Date**: November 6th, 2025
-**Days Remaining**: 18 days (as of Oct 19, 2025)
-**Current Progress**: 36% coverage (26/73 CFP topics)
+**Exam Date**: November 10th, 2025
+**Days Remaining**: 4 days (as of Nov 6, 2025)
+**Current Progress**: 82% coverage (60/73 CFP topics)
 **Study Materials**: 2024 Dalton Review Slides (1,088 pages) - ALL 6 decks analyzed and mapped
-**Status**: CRITICAL PHASE - time is limited!
+**Status**: FINAL WEEK - Ready for exam!
 
-### Current Situation (October 19, 2025)
+### Current Situation (November 6, 2025)
 
-**Strengths** (80%+ coverage):
-- ✅ **Retirement Planning** (F.44-F.53): 80% covered - Medicare mastered, RMDs mastered, plan types known
-- ✅ **Tax Planning** (E.36-E.43): 75% covered - 1031 exchanges perfect, capital gains strong
+**COMPLETE Domains** (60% of exam weight!):
+- ✅ **Retirement Planning** (F.44-F.53): 100% COMPLETE - All 10 topics mastered
+- ✅ **Investment Planning** (D.27-D.35): 100% COMPLETE - All 9 topics mastered
+- ✅ **Tax Planning** (E.36-E.43): 100% COMPLETE - All 8 topics mastered
+- ✅ **Insurance Planning** (C.17-C.26): 100% COMPLETE - All 10 topics mastered
 
-**In Progress** (40-50% coverage):
-- 🟡 **Investment Planning** (D.27-D.35): 44% covered - Risk measures known, need quantitative concepts
-- 🟡 **Insurance** (C.17-C.26): 40% covered - Medicare/disability/auto/homeowners done, need LTC & annuities
+**In Progress** (33% of exam):
+- 🟡 **General Principles** (B.7-B.16): 80% covered (8/10 topics) - Need B.15 Education funding
+- 🟡 **Estate Planning** (G.54-G.64): 64% covered (9/14 topics) - Working through remaining topics
+- 🟡 **Psychology** (H.65-H.70): 33% covered (2/6 topics) - Low priority (7% of exam)
 
-**Urgent Gaps** (0-21% coverage):
-- 🔴 **General Principles** (B.7-B.16): Only 10% covered - HIGHEST PRIORITY (15% of exam)
-- 🔴 **Estate Planning** (G.54-G.64): Only 21% covered - Need gift/estate tax & trusts
-- 🔴 **Professional Conduct** (A.1-A.6): 0% covered - Quick review needed
-- 🔴 **Psychology** (H.65-H.70): 0% covered - Minimal slide coverage, supplement needed
-
-**Critical Knowledge Gap**:
-- ⚠️ **E.38 Business Taxation** (Section 179, MACRS, Depreciation): Introduced when tired, NEEDS IMMEDIATE FRESH SESSION
+**Not Yet Started**:
+- ⚪ **Professional Conduct** (A.1-A.6): 0% covered - 8% of exam, can complete in 2-3 hours
 
 **Learning Pattern Observed**:
 - Student learns best through practice problems and self-directed research
@@ -305,105 +302,117 @@ For EVERY learning conversation, Claude must complete BOTH steps:
 
 ---
 
-## 18-Day Study Plan Priority (October 19 - November 5)
+## 6-Day Final Week Plan (November 4-9, 2025)
 
-Based on current progress (36% coverage) and exam weights, prioritize in this order:
+**Current Status**: 81% complete, all highest-weighted domains (60% of exam) MASTERED!
+- ✅ Retirement (18%), Investment (17%), Tax (14%), Insurance (11%) = **COMPLETE**
 
-### 🔴 DAYS 1-6 (Oct 19-24) - CRITICAL GAPS IN HIGHEST-WEIGHTED DOMAINS
+**Remaining Focus**: Fill gaps in lower-weighted domains + review + rest
 
-**Day 1-2: E.38 Business Taxation** ⚠️ IMMEDIATE PRIORITY
-- Section 179 expensing ($1,220K for 2024)
-- MACRS depreciation
-- Mid-quarter convention
-- **WHY**: High-priority gap in Tax domain (14% of exam), student tired when introduced
-- **SLIDES**: Tax slides pages 135-145
-- **RULE**: Only teach when student has FRESH mind (morning preferred)
+### 📅 DAY 1 (Nov 4 - Monday)
 
-**Day 3-4: F.49 Non-Qualified Plans**
-- Traditional IRA deductibility rules and phaseouts
-- Roth IRA AGI phaseouts, qualified distributions, ordering rules
-- SEP and SIMPLE plans (contributions, taxation)
-- Stock options (ISOs vs NQSOs)
-- **WHY**: Complete the highest-weighted domain (Retirement = 18% of exam)
-- **SLIDES**: Retirement slides pages 105-140
+**B.15 Education Funding** - Complete General Principles Domain
+- Pell Grant, Stafford loans, PLUS loans
+- Income-Based Repayment, Public Service Loan Forgiveness
+- Work-Study programs
+- **WHY**: Finish General Principles (15% of exam, currently 80% done)
+- **SLIDES**: Fundamentals pages 70-80
+- **TIME**: 1-2 hours
 
-**Day 5-6: G.57 Gift/Estate/GST Tax Fundamentals**
-- Annual exclusion ($18K), lifetime exclusion ($13.61M)
-- Tax calculation: First $1M = $345,800 + 40% over
-- Form 709, Form 706 basics
-- GSTT overview
-- **WHY**: Foundation for Estate Planning domain (10% of exam, currently only 21% covered)
-- **SLIDES**: Estate slides pages 50-120
+**Estate Planning Practice Problems** - Reinforce G.54-G.60
+- Review: Gift tax, trusts, step-up basis, QTIP, property titling
+- Practice problems on topics already mastered
+- **WHY**: Keep fresh, Estate = 10% of exam
+- **TIME**: 2-3 hours
 
-### 🟡 DAYS 7-12 (Oct 25-30) - HIGH-WEIGHTED DOMAINS WITH GAPS
+### 📅 DAY 2 (Nov 5 - Tuesday)
 
-**Day 7-8: B.7-B.11 General Principles**
-- 7-step financial planning process (CRITICAL - likely tested)
-- Financial statements (Balance sheet, Income statement)
-- Financial ratios (Current, Emergency Fund, 28%, 36%, Savings)
-- Business cycle (4 phases - what happens to GDP, inflation, rates, unemployment)
-- Monetary/Fiscal policy tools
-- **WHY**: 15% of exam, only 10% covered - URGENT
-- **SLIDES**: Fundamentals slides pages 40-90
+**G.55-G.56 Estate Planning Remaining Topics**
+- G.55: Transfer strategies (GRAT, GRUT, QPRT, FLP, SCIN)
+- G.56: Estate documents (Wills, POA, Healthcare proxy, Living will)
+- **WHY**: Complete Estate Planning domain (10% of exam)
+- **SLIDES**: Estate pages 100-130
+- **TIME**: 3-4 hours
 
-**Day 9-10: D.30-D.32 Investment Quantitative & Valuation**
-- Standard deviation, Beta, Sharpe ratio, Treynor, Jensen's alpha
-- Duration and bond immunization
-- Dividend discount model, P/E ratios
-- Asset allocation, CAPM
-- **WHY**: 17% of exam, gaps in quantitative concepts
-- **SLIDES**: Investments slides pages 60-90, 100-130
+**Review: General Principles Key Concepts**
+- Financial ratios (28-36 rule)
+- Economic concepts (GDP, fiscal/monetary policy)
+- Time value of money
+- **TIME**: 1-2 hours
 
-**Day 11-12: G.59-G.60 Trusts and Marital Deduction**
-- Trust types: GRAT, GRUT, QPRT, ILIT
-- Crummey provisions for annual exclusion
-- QTIP trust requirements
-- Terminable interest rule and exceptions
-- **WHY**: Complete Estate Planning foundation (10% of exam)
-- **SLIDES**: Estate slides pages 130-170
+### 📅 DAY 3 (Nov 6 - Wednesday)
 
-### 🟢 DAYS 13-15 (Oct 31 - Nov 2) - COMPLETE REMAINING GAPS
+**A.1-A.6 Professional Conduct (Complete Review)**
+- A.1: CFP Code of Ethics (6 Principles: Integrity, Objectivity, Competence, Fairness, Confidentiality, Professionalism)
+- A.2: CFP Board Procedural Rules (30-day reporting, bankruptcy disclosure)
+- A.3: Financial institutions (FDIC $250K coverage)
+- A.4: Financial regulations (Securities Acts 1933/1934, Form ADV, FINRA)
+- A.5: Consumer protection (Fair Credit, Truth in Lending, CARD Act)
+- A.6: Fiduciary duties (act in client's best interest, conflicts disclosure)
+- **WHY**: 8% of exam, can complete in one focused session
+- **SLIDES**: Fundamentals pages 1-40
+- **TIME**: 3-4 hours
 
-**Day 13: C.17, C.21, C.22 Insurance Fundamentals**
-- Risk management matrix (Avoidance, Insurance, Retention/Reduction)
-- Long-term care: ADLs (BED To Chair), tax deductions by age
-- Annuities: Types, payout options, taxation (LIFO vs FIFO)
-- **WHY**: Complete Insurance domain (11% of exam)
-- **SLIDES**: Insurance slides pages 1-20, 175-180, 85-100
+### 📅 DAY 4 (Nov 7 - Thursday)
 
-**Day 14: F.44, F.52 Retirement Income Planning**
-- Sustainable withdrawal rates (3-4%)
-- Withdrawal strategies (flat, inflation-adjusted, performance-based)
-- **WHY**: Complete Retirement domain (18% of exam)
-- **SLIDES**: Retirement slides pages 95-100
+**G.61-G.64 Estate Planning Final Topics**
+- G.61: Business transfer techniques (buy-sell agreements, §303, §6166, §2032A)
+- G.62: Postmortem estate planning (disclaimers, QTIP election, IRD)
+- G.63: Special circumstances (divorce, unmarried couples, non-citizens)
+- G.64: Special needs planning (SNT, ABLE accounts)
+- **WHY**: Complete Estate Planning (10% of exam)
+- **SLIDES**: Estate pages 170-200
+- **TIME**: 3-4 hours
 
-**Day 15: Remaining Investment Topics**
-- D.27 Investment vehicles (REITs, ETFs, ADRs)
-- D.29 Market cycles, EMH
-- D.33 IPS (RR TTLLU)
-- **WHY**: Complete Investment domain (17% of exam)
-- **SLIDES**: Investment slides
+**Psychology Quick Review (If Time)**
+- H.65-H.66: Behavioral finance, client biases
+- H.69: Communication techniques
+- **WHY**: 7% of exam, lowest priority but good to review
+- **TIME**: 1-2 hours if available
 
-### ⚪ DAYS 16-18 (Nov 3-5) - FINAL REVIEW & LOW-WEIGHTED DOMAINS
+### 📅 DAY 5 (Nov 8 - Friday)
 
-**Day 16: A.1-A.6 Professional Conduct (Quick Review)**
-- 6 Principles of Code of Ethics
-- Fiduciary duties
-- Form ADV
-- **WHY**: 8% of exam, can review quickly
-- **SLIDES**: Fundamentals slides pages 1-40
+**COMPREHENSIVE REVIEW DAY**
+- **Morning**: Review all memory systems created during study sessions
+  - "28-36 + 3-6-10" (financial ratios)
+  - "Hardship = Access Pass, Not Tax Pass"
+  - "SCIN = SALE, Everything Else = GIFT"
+  - "POWER PAYS" (trust taxation)
+  - All other mnemonics
+- **Afternoon**: Practice problems from HIGHEST-WEIGHTED domains
+  - Retirement (18%) - RMDs, distributions, plan types
+  - Investment (17%) - Sharpe/Treynor, valuation, risk measures
+  - Tax (14%) - Gift tax, business taxation, capital gains
+  - General Principles (15%) - Ratios, economic concepts
+- **Evening**: Review knowledge gaps list, verify all resolved
+- **TIME**: Full day review
 
-**Day 17: H.65-H.70 Psychology (Brief Review)**
-- Behavioral finance basics
-- Communication techniques
-- **WHY**: 7% of exam, minimal slide coverage
-- **NOTE**: May need to supplement with other materials
+### 📅 DAY 6 (Nov 9 - Saturday) - DAY BEFORE EXAM
 
-**Day 18: FINAL COMPREHENSIVE REVIEW**
-- All knowledge gaps
-- Key formulas to memorize
-- Practice problems from highest-weighted domains
-- Rest well before exam!
+**LIGHT REVIEW + REST DAY** 🧘
+- **Morning**: Light review only
+  - Skim through key formulas
+  - Review CFP Code of Ethics (6 Principles)
+  - Quick glance at financial ratios
+- **Afternoon**: STOP STUDYING
+  - Prepare exam materials (ID, calculator, confirmation)
+  - Check exam location, travel time, parking
+  - Lay out clothes for exam day
+- **Evening**: Relax and rest
+  - Light meal, hydrate
+  - Early to bed (8+ hours sleep)
+  - Visualization: See yourself succeeding on exam
+
+### 🎯 EXAM DAY (Nov 10 - Sunday)
+
+- **Healthy breakfast** (protein + complex carbs)
+- **Arrive 30 minutes early** (reduce stress)
+- **Trust your preparation** (81% coverage, 60% of exam mastered!)
+- **Read questions carefully** (watch for "EXCEPT" and "NOT")
+- **Use memory systems** (recall mnemonics created)
+- **Stay calm** (you're well-prepared!)
+
+**YOU'VE GOT THIS!** 🎓
 
 ---
 
