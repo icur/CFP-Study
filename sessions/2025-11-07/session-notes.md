@@ -578,3 +578,121 @@
 
 **Days to Exam**: 3 days
 **Status**: EXCELLENT progress! 90% complete!
+
+---
+
+## Estate Planning Topics Started (G.56, G.61)
+
+**Progress**: 67/73 topics (92%)
+
+### G.56 Estate Planning Documents ✅
+
+**4 Essential Documents Mastered**:
+
+**1. Will**:
+- Distributes probate assets at death
+- Names executor, guardian for minors
+- Does NOT control: Life insurance, retirement accounts, joint property, POD/TOD
+- Must go through probate (public record)
+
+**2. Financial Power of Attorney**:
+- General POA: Terminates at incapacity
+- **Durable POA**: Survives incapacity ⭐ (most important!)
+- Springing POA: Activates upon specific event
+- **Ends at death** (does not control assets after death - that's the will)
+
+**3. Healthcare Power of Attorney (Healthcare Proxy)**:
+- Authorizes agent for medical decisions
+- Separate from financial POA
+- Includes HIPAA authorization
+- Agent makes treatment decisions when you can't communicate
+
+**4. Living Will (Advance Healthcare Directive)**:
+- YOUR end-of-life treatment wishes
+- Life support, resuscitation (DNR), artificial nutrition
+- Different from Healthcare POA (instructions vs agent's decisions)
+- Best practice: Have BOTH
+
+**Key Distinctions Mastered**:
+- POA = Alive (incapacity), Will = When dead
+- Durable = Doesn't die with incapacity, General = Terminates
+- Living Will = Your instructions, Healthcare POA = Agent decides
+- Will controls probate assets only (not beneficiary designations)
+
+**Practice Question**: Student correctly identified Durable POA for financial decisions during incapacity
+
+### G.61 Business Transfer Techniques (In Progress)
+
+**Buy-Sell Agreements**:
+
+**Cross-Purchase Agreement**:
+- Owners buy from each other
+- Policies needed: n × (n - 1) [3 owners = 6 policies]
+- Buyers get **basis step-up** ✅
+- Premiums NOT deductible, death benefit tax-free
+- Best for: 2-3 owners
+
+**Entity-Purchase Agreement**:
+- Company buys shares
+- Policies needed: n [3 owners = 3 policies]
+- NO basis step-up for surviving owners ❌
+- May trigger AMT
+- Best for: 4+ owners
+
+**Wait-and-See (Hybrid)**:
+- Combination approach
+- Flexibility to choose best option at time of event
+
+**Comparison Table Taught**:
+- Cross-Purchase: More policies, basis step-up
+- Entity-Purchase: Fewer policies, no basis step-up
+- Memory: "Cross-Purchase = Complicated (many policies), Cost basis goes up"
+
+**Valuation Methods**:
+1. Fixed price (becomes outdated)
+2. Formula-based (automatic adjustment)
+3. Independent appraisal (most accurate)
+
+**Family Business Transfer Techniques**:
+1. Gifting with minority discounts (20-40%)
+2. Installment sale to family
+3. SCIN (Self-Canceling Installment Note)
+4. Private Annuity
+5. Family Limited Partnership (FLP)
+6. GRAT (Grantor Retained Annuity Trust)
+
+**Status**: Partially complete, student has practice question pending
+
+---
+
+## Today's Total Progress (Nov 7, 2025)
+
+**Session Duration**: ~4 hours
+**Topics Completed**: 7 topics (from 60/73 to 67/73)
+
+**Completed Today**:
+1. ✅ Retention Testing (19/20 issues - 95%)
+2. ✅ A.1 CFP Board Code of Ethics
+3. ✅ A.2 Procedural Rules
+4. ✅ A.3 Financial Institutions
+5. ✅ A.4 Financial Services Regulations
+6. ✅ A.5 Consumer Protection Laws
+7. ✅ A.6 Fiduciary Standard
+8. ✅ G.56 Estate Documents
+9. ⏸️ G.61 Business Transfer (in progress)
+
+**Overall Progress**:
+- Started: 60/73 (82%)
+- Current: 67/73 (92%)
+- Gained: +7 topics today!
+
+**Remaining**: Only 6 topics left!
+- G.61 Business Transfer (finish)
+- G.62 Postmortem Estate Planning
+- G.63 Divorce/Special Circumstances
+- E.42 Tax Special Circumstances
+- H.65 Attitudes/Values/Biases
+- H.68 Principles of Counseling
+
+**Days to Exam**: 3 days
+**Status**: 92% complete - OUTSTANDING position! 🚀
